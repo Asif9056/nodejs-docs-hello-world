@@ -59,4 +59,4 @@ jobs:
           app-name: 'asif-node-githubaction'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_952DF2857C0649658110ECF098F53572 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_57D6944900A743A78F2EC90A92459B2B }}
